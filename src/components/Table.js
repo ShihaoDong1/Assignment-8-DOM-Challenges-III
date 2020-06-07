@@ -47,16 +47,15 @@ class Table extends Component {
   }
 
   mouseDown = (event) => {
-    event.target.style.backgroundColor = this.state.color;
-    this.setState({checker: true});
+    this.setState({check: true});
   }
 
   mouseUp = (event) => {
-    this.setState({checker: false});
+    this.setState({check: false});
   }
 
   mouseEnter = (event) => {
-    if (this.state.checker === true){
+    if (this.state.check === true){
       event.target.style.backgroundColor = this.state.color;
     }
   }
@@ -91,7 +90,7 @@ class Table extends Component {
     for(let i = 0; i < this.state.rowNumber; i++){
       let myTableColumn = [];
       for(let j = 0; j < this.state.columnNumber; j++){
-        myTableColumn.push(<TableCell assignColor={this.assignColor}/>);
+        myTableColumn.push(<TableCell mouseDown={this.mouseDown} mouseUp={this.mouseUp} mouseEnter={this.mouseEnter}/>);
       }
       myTableRow.push(<tr>{myTableColumn}</tr>)
     }

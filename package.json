@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "assignment10",
+=======
+  "name": "bank-of-react",
+>>>>>>> refs/remotes/origin/master
   "version": "0.1.0",
   "private": true,
   "dependencies": {

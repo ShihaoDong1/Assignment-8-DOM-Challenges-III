@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Assignment-8-DOM-Challenges-III/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Assignment-8-DOM-Challenges-III/static/js/main.c38a0eb7.chunk.js",
+    "main.js.map": "/Assignment-8-DOM-Challenges-III/static/js/main.c38a0eb7.chunk.js.map",
+    "runtime-main.js": "/Assignment-8-DOM-Challenges-III/static/js/runtime-main.938c768e.js",
+    "runtime-main.js.map": "/Assignment-8-DOM-Challenges-III/static/js/runtime-main.938c768e.js.map",
+    "static/js/2.11cca046.chunk.js": "/Assignment-8-DOM-Challenges-III/static/js/2.11cca046.chunk.js",
+    "static/js/2.11cca046.chunk.js.map": "/Assignment-8-DOM-Challenges-III/static/js/2.11cca046.chunk.js.map",
+    "index.html": "/Assignment-8-DOM-Challenges-III/index.html",
+    "precache-manifest.0b88762ec23688f5178f2a969411d597.js": "/Assignment-8-DOM-Challenges-III/precache-manifest.0b88762ec23688f5178f2a969411d597.js",
+    "service-worker.js": "/Assignment-8-DOM-Challenges-III/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Assignment-8-DOM-Challenges-III/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.11cca046.chunk.js.LICENSE.txt": "/Assignment-8-DOM-Challenges-III/static/js/2.11cca046.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.938c768e.js",
+    "static/js/2.11cca046.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c38a0eb7.chunk.js"
+  ]
+}
